@@ -32,8 +32,7 @@ I'm Thenmozhi, a passionate Full Stack Developer from Tirupattur, Tamil Nadu. I 
 
 - Frontend: HTML5, CSS3, JavaScript, React
 - Backend: Node.js, Express
-- Database: MongoDB, SQL
-- Tools: Git, REST APIs
+- Database: , MySQL
 
 ## Contact
 
